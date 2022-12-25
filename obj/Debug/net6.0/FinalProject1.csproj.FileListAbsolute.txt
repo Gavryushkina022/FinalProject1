@@ -1,0 +1,15 @@
+C:\Users\Станислав\OneDrive\Рабочий стол\Резюме+Порфтолио\Обучение\FinalProject1\obj\Debug\net6.0\FinalProject1.csproj.AssemblyReference.cache
+C:\Users\Станислав\OneDrive\Рабочий стол\Резюме+Порфтолио\Обучение\FinalProject1\obj\Debug\net6.0\FinalProject1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Станислав\OneDrive\Рабочий стол\Резюме+Порфтолио\Обучение\FinalProject1\obj\Debug\net6.0\FinalProject1.AssemblyInfoInputs.cache
+C:\Users\Станислав\OneDrive\Рабочий стол\Резюме+Порфтолио\Обучение\FinalProject1\obj\Debug\net6.0\FinalProject1.AssemblyInfo.cs
+C:\Users\Станислав\OneDrive\Рабочий стол\Резюме+Порфтолио\Обучение\FinalProject1\obj\Debug\net6.0\FinalProject1.csproj.CoreCompileInputs.cache
+C:\Users\Станислав\OneDrive\Рабочий стол\Резюме+Порфтолио\Обучение\FinalProject1\bin\Debug\net6.0\FinalProject1.exe
+C:\Users\Станислав\OneDrive\Рабочий стол\Резюме+Порфтолио\Обучение\FinalProject1\bin\Debug\net6.0\FinalProject1.deps.json
+C:\Users\Станислав\OneDrive\Рабочий стол\Резюме+Порфтолио\Обучение\FinalProject1\bin\Debug\net6.0\FinalProject1.runtimeconfig.json
+C:\Users\Станислав\OneDrive\Рабочий стол\Резюме+Порфтолио\Обучение\FinalProject1\bin\Debug\net6.0\FinalProject1.dll
+C:\Users\Станислав\OneDrive\Рабочий стол\Резюме+Порфтолио\Обучение\FinalProject1\bin\Debug\net6.0\FinalProject1.pdb
+C:\Users\Станислав\OneDrive\Рабочий стол\Резюме+Порфтолио\Обучение\FinalProject1\obj\Debug\net6.0\FinalProject1.dll
+C:\Users\Станислав\OneDrive\Рабочий стол\Резюме+Порфтолио\Обучение\FinalProject1\obj\Debug\net6.0\refint\FinalProject1.dll
+C:\Users\Станислав\OneDrive\Рабочий стол\Резюме+Порфтолио\Обучение\FinalProject1\obj\Debug\net6.0\FinalProject1.pdb
+C:\Users\Станислав\OneDrive\Рабочий стол\Резюме+Порфтолио\Обучение\FinalProject1\obj\Debug\net6.0\FinalProject1.genruntimeconfig.cache
+C:\Users\Станислав\OneDrive\Рабочий стол\Резюме+Порфтолио\Обучение\FinalProject1\obj\Debug\net6.0\ref\FinalProject1.dll
